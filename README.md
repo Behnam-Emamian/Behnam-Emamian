@@ -13,6 +13,7 @@
   <code><img height="30" src="https://raw.githubusercontent.com/Behnam-Emamian/Behnam-Emamian/main/Logos/HTML.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/Behnam-Emamian/Behnam-Emamian/main/Logos/CSS3.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/Behnam-Emamian/Behnam-Emamian/main/Logos/JavaScript.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/Behnam-Emamian/Behnam-Emamian/main/Logos/TypeScript.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/Behnam-Emamian/Behnam-Emamian/main/Logos/reactjs.png"></code>
 
 #### 👨🏻‍💻 Previous Languages and Tools
